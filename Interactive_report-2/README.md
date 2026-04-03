@@ -61,6 +61,13 @@ All core visualizations were designed and built in **Tableau**.
    - Profit Distribution
 3. Use filters and interactive controls to explore the data further.
 
+
+## Demo Image
+
+<img width="1006" height="813" alt="img" src="https://github.com/user-attachments/assets/e9dc74e9-601e-46c6-b2e9-7fe389e428a7" />
+
+
+
 ## Possible Extensions
 
 - Add calculated fields for customer segmentation and cohort analysis.  

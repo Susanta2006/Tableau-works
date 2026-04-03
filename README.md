@@ -16,13 +16,14 @@ As a student at IIT Jodhpur, I am focused on the intersection of Data Science an
 
 ## 📂 Project Gallery
 
-    Project Name                                               Key Techniques                                      Status
-    
-    Sales Performance Dashboard                       KPIs, Pie Charts, Bar Charts, Tables                      ✅ Completed
-
-    Project 2 (Coming Soon)                                Maps, Parameter Actions                              🛠️ In Progress
-
-    Project 3 (Coming Soon)                               Story Points, Forecasting                              📅 Planned
+    |        Project Name                      |                Key Techniques                                               |       Status      |
+    ----------------------------------------------------------------------------------------------------------------------------------------------
+                                               |                                                                             |                    
+    Sales Performance Dashboard                |       KPIs, Pie Charts, Bar Charts, Tables                                  |    ✅ Completed    
+                                               |                                                                             |
+    Sales & Profit Dashboard (2014–2017)       |      time series, distributing analysis, catagerical analysis               |    ✅ Completed
+                                               |                                                                             |
+    Project 3 (Coming Soon)                    |          Story Points, Forecasting                                          |    📅 Planned
 
 
 ## 🛠️ Tools & Technologies
